@@ -79,6 +79,7 @@ window.translations = {
   "复制于": "Copied from",
   "动态获得属性": "Dynamically Gained Attributes",
   "棋盘上已没有足够空间置入该石板。": "There is not enough space on the board to place this slate.",
+  "该类石板已达可置入上限，无法置入！": "This type of slate has reached the placement limit and cannot be placed.",
   "复制四周相邻石板的最后一条属性": "Copy the last attribute of surrounding slates",
   "侧所有相邻石板的常规属性": " adjacent slates' normal attributes",
   "已置入的石板": "Placed Slates"
