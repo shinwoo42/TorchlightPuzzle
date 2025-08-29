@@ -55,7 +55,7 @@ window.translations = {
   "未知石板": "Unknown Slate",
 
   "空置": "Empty",
-  "额外": "Extra",
+  "额外": "Additional",
   "操作": "Actions",
   "旋转": "Rotate",
   "水平翻转": "Flip Horizontal",
